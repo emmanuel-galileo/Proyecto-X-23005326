@@ -1,0 +1,9 @@
+traceroute to 104.20.20.230 (104.20.20.230), 8 hops max, 52 byte packets
+ 1  DESKTOP-AT70I2G.mshome.net (172.17.32.1)  0.377 ms  0.234 ms  0.199 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *

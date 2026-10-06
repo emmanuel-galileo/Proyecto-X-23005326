@@ -1,0 +1,2 @@
+.build/checksum.o: checksum.c checksum.h
+checksum.h:
